@@ -6,6 +6,6 @@ Functions used:
 
 #Results
 Used for translating an image in our library from english to dutch
- <img src="./ir_tab.JPG">
+ <img src="./snapshot_1.JPG">
 
 Have fun :)
