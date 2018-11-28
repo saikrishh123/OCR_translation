@@ -4,7 +4,7 @@ Functions used:
 1. MATLAB OCR function.
 2. google translate api from googletrans (https://pypi.org/project/googletrans/) python package. 
 
-#Results
+# Results
 Used for translating an image in our library from english to dutch
  <img src="./snapshot_1.JPG">
 
